@@ -1,5 +1,6 @@
 # Welcome to My GitHub Page
-##🚨 Notice: URL Change
+
+## Notice: URL Change 🔴🔵
 Thank you for visiting my GitHub repository! Please note that my website has moved to a new location. You can now find it at:
 
 🔗 https://pavanmohan.netlify.app
@@ -10,5 +11,6 @@ If you have any questions or need further assistance, feel free to contact me at
 
 Thank you for your continued support!
 
-![image](https://github.com/user-attachments/assets/7e915e9d-ee4d-4fcc-b74d-7f48bbb68244)
+<img src="https://github.com/user-attachments/assets/7e915e9d-ee4d-4fcc-b74d-7f48bbb68244" alt="icon" width="100" height="100">
+
 
